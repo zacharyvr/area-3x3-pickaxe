@@ -1,8 +1,10 @@
 # Area Pickaxe
-## If you just want the .jar just make sure it is installed on the client and server
 
 A Fabric mod (Minecraft 1.21.11) that adds a special pickaxe which mines a **3x3 area** of blocks
 at once, instead of just one block.
+
+# If you just want the .jar just make sure it is installed on the client and server
+you can get the mod at modrinth the curseforge mod is coming soon
 
 ## Getting the pickaxe
 
